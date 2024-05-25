@@ -13,11 +13,8 @@ public class TimeCounter : MonoBehaviour
 
     private float seconds, minutes;
     private float time;
-    private float savedTime = 0;
-    private float savedSeconds, savedMinutes;
 
-
-    private void Start()
+    void Start()
     {
         time += Time.timeSinceLevelLoad;
     }
@@ -35,10 +32,6 @@ public class TimeCounter : MonoBehaviour
         time += Time.deltaTime;
         seconds = time % 60;
         minutes = time / 60;
-
-        savedSeconds = seconds;
-        savedMinutes = minutes;
-
 
         timer.text = minutes.ToString("00") + ":" + seconds.ToString("00");
 
