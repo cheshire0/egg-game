@@ -16,7 +16,6 @@ ScriptsOnlyBuild:
     Unity.2D.Animation.Editor.dll:
     - UnityEditor.U2D.Animation.BoneGizmo
     Unity.2D.Animation.Runtime.dll:
-    - UnityEngine.U2D.Animation.BufferManager
     - UnityEngine.U2D.Animation.SpriteSkinComposite
     - UnityEngine.U2D.Animation.SpriteSkinUpdateHelper
     Unity.2D.IK.Editor.dll:
@@ -1769,4 +1768,4 @@ ScriptsOnlyBuild:
   - Assets/Scenes/HighscoreScene.unity
   - Assets/Scenes/InstructionScene.unity
   - Assets/Scenes/KitchenScene.unity
-  playerPath: C:/Users/sebok/Documents/6. felev/szorak/hf/egg-game/egg-game/Build/egg-game.exe
+  playerPath: C:/Users/sebok/Documents/6. felev/szorak/hf/egg-game/Build/egg-game.exe

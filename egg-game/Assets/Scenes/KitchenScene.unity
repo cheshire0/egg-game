@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0, g: 0, b: 0, a: 1}
+  m_IndirectSpecularColor: {r: 0.0031093494, g: 0.0027564813, b: 0.003310872, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -150,7 +150,7 @@ Transform:
   m_GameObject: {fileID: 39963603}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 27.86, y: -1, z: 1.2877834}
+  m_LocalPosition: {x: 27.86, y: -1, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -1060,12 +1060,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 498242550}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 28.634438, y: -3.47, z: 0}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 32.999214, y: -0.857811, z: 2}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 1292079425}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &519420028
 GameObject:
@@ -1128,7 +1128,7 @@ Camera:
   near clip plane: 0.3
   far clip plane: 1000
   field of view: 41.7
-  orthographic: 0
+  orthographic: 1
   orthographic size: 5
   m_Depth: -1
   m_CullingMask:
@@ -1452,7 +1452,7 @@ Transform:
   m_GameObject: {fileID: 599778078}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 21.263792, y: -3.4373095, z: -1}
+  m_LocalPosition: {x: 21.263792, y: -3.4373095, z: -3}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -2612,6 +2612,7 @@ Transform:
   m_Children:
   - {fileID: 161192658}
   - {fileID: 39963604}
+  - {fileID: 498242553}
   - {fileID: 1779762601}
   - {fileID: 625906881}
   - {fileID: 1533461507}
@@ -3906,7 +3907,6 @@ SceneRoots:
   - {fileID: 646809696}
   - {fileID: 599778081}
   - {fileID: 1388513985}
-  - {fileID: 498242553}
   - {fileID: 619985006}
   - {fileID: 465393177}
   - {fileID: 215510221}

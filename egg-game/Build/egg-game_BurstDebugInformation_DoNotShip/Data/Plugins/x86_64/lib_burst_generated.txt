@@ -1,4 +1,4 @@
-Library: C:\Users\sebok\Documents\6. felev\szorak\hf\egg-game\egg-game\Temp\BurstOutput\Data\Plugins\x86_64\lib_burst_generated
+Library: C:\Users\sebok\Documents\6. felev\szorak\hf\egg-game\Temp\BurstOutput\Data\Plugins\x86_64\lib_burst_generated
 --platform=Windows
 --backend=burst-llvm-15
 --target=X64_SSE2
@@ -51,10 +51,10 @@ Library: C:\Users\sebok\Documents\6. felev\szorak\hf\egg-game\egg-game\Temp\Burs
 --assembly-defines=mscorlib;
 --linker-options=PdbAltPath="egg-game_Data/Plugins/x86_64/lib_burst_generated.pdb"
 --generate-link-xml=Temp\burst.link.xml
---temp-folder=C:\Users\sebok\Documents\6. felev\szorak\hf\egg-game\egg-game\Temp\Burst
+--temp-folder=C:\Users\sebok\Documents\6. felev\szorak\hf\egg-game\Temp\Burst
 --key-folder=C:/Program Files/Unity/Hub/Editor/2022.3.10f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport
---decode-folder=C:\Users\sebok\Documents\6. felev\szorak\hf\egg-game\egg-game\Library\Burst
---output=C:\Users\sebok\Documents\6. felev\szorak\hf\egg-game\egg-game\Temp\BurstOutput\Data\Plugins\x86_64\lib_burst_generated
+--decode-folder=C:\Users\sebok\Documents\6. felev\szorak\hf\egg-game\Library\Burst
+--output=C:\Users\sebok\Documents\6. felev\szorak\hf\egg-game\Temp\BurstOutput\Data\Plugins\x86_64\lib_burst_generated
 --pdb-search-paths=Temp/ManagedSymbols/
 
 --method=Unity.Burst.BurstCompiler+BurstCompilerHelper, Unity.Burst, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null::IsBurstEnabled()--8c2be93e18276203cbd918daa2748a10
@@ -140,10 +140,10 @@ Library: C:\Users\sebok\Documents\6. felev\szorak\hf\egg-game\egg-game\Temp\Burs
 --assembly-defines=mscorlib;
 --linker-options=PdbAltPath="egg-game_Data/Plugins/x86_64/lib_burst_generated.pdb"
 --generate-link-xml=Temp\burst.link.xml
---temp-folder=C:\Users\sebok\Documents\6. felev\szorak\hf\egg-game\egg-game\Temp\Burst
+--temp-folder=C:\Users\sebok\Documents\6. felev\szorak\hf\egg-game\Temp\Burst
 --key-folder=C:/Program Files/Unity/Hub/Editor/2022.3.10f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport
---decode-folder=C:\Users\sebok\Documents\6. felev\szorak\hf\egg-game\egg-game\Library\Burst
---output=C:\Users\sebok\Documents\6. felev\szorak\hf\egg-game\egg-game\Temp\BurstOutput\Data\Plugins\x86_64\lib_burst_generated
+--decode-folder=C:\Users\sebok\Documents\6. felev\szorak\hf\egg-game\Library\Burst
+--output=C:\Users\sebok\Documents\6. felev\szorak\hf\egg-game\Temp\BurstOutput\Data\Plugins\x86_64\lib_burst_generated
 --pdb-search-paths=Temp/ManagedSymbols/
 
 --method=Unity.Burst.BurstCompiler+BurstCompilerHelper, Unity.Burst, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null::IsBurstEnabled()--8c2be93e18276203cbd918daa2748a10

@@ -586,7 +586,7 @@
       "DisplayName": "Writing boot.config_tyr4.info",
       "ActionType": "WriteFile",
       "PayloadOffset": 83,
-      "PayloadLength": 18536,
+      "PayloadLength": 18356,
       "PayloadDebugContentSnippet": "{\"System.Object\":null,\"Bee.Tun",
       "Inputs": [],
       "Outputs": [
@@ -702,26 +702,26 @@
         "C:/Program Files/Unity/Hub/Editor/2022.3.10f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/mono/Managed/UnityEngine.WindModule.dll",
         "C:/Program Files/Unity/Hub/Editor/2022.3.10f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/mono/Managed/UnityEngine.XRModule.dll",
         "C:/Program Files/Unity/Hub/Editor/2022.3.10f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/mono/Managed/UnityEngine.dll",
-        "C:/Users/sebok/Documents/6. felev/szorak/hf/egg-game/egg-game/Library/Bee/PlayerScriptAssemblies/Assembly-CSharp.dll",
-        "C:/Users/sebok/Documents/6. felev/szorak/hf/egg-game/egg-game/Library/Bee/PlayerScriptAssemblies/Unity.2D.IK.Runtime.dll",
-        "C:/Users/sebok/Documents/6. felev/szorak/hf/egg-game/egg-game/Library/Bee/PlayerScriptAssemblies/Unity.Burst.dll",
-        "C:/Users/sebok/Documents/6. felev/szorak/hf/egg-game/egg-game/Library/Bee/PlayerScriptAssemblies/Unity.VisualScripting.Core.dll",
-        "C:/Users/sebok/Documents/6. felev/szorak/hf/egg-game/egg-game/Library/Bee/PlayerScriptAssemblies/Unity.2D.Animation.Runtime.dll",
-        "C:/Users/sebok/Documents/6. felev/szorak/hf/egg-game/egg-game/Library/Bee/PlayerScriptAssemblies/Unity.2D.Tilemap.Extras.dll",
-        "C:/Users/sebok/Documents/6. felev/szorak/hf/egg-game/egg-game/Library/Bee/PlayerScriptAssemblies/Unity.VisualScripting.Flow.dll",
-        "C:/Users/sebok/Documents/6. felev/szorak/hf/egg-game/egg-game/Library/Bee/PlayerScriptAssemblies/Unity.InternalAPIEngineBridge.001.dll",
-        "C:/Users/sebok/Documents/6. felev/szorak/hf/egg-game/egg-game/Library/Bee/PlayerScriptAssemblies/Unity.2D.Common.Runtime.dll",
-        "C:/Users/sebok/Documents/6. felev/szorak/hf/egg-game/egg-game/Library/Bee/PlayerScriptAssemblies/UnityEngine.UI.dll",
-        "C:/Users/sebok/Documents/6. felev/szorak/hf/egg-game/egg-game/Library/Bee/PlayerScriptAssemblies/Unity.Timeline.dll",
-        "C:/Users/sebok/Documents/6. felev/szorak/hf/egg-game/egg-game/Library/Bee/PlayerScriptAssemblies/Unity.Collections.dll",
-        "C:/Users/sebok/Documents/6. felev/szorak/hf/egg-game/egg-game/Library/Bee/PlayerScriptAssemblies/Unity.2D.SpriteShape.Runtime.dll",
-        "C:/Users/sebok/Documents/6. felev/szorak/hf/egg-game/egg-game/Library/Bee/PlayerScriptAssemblies/Unity.2D.PixelPerfect.dll",
-        "C:/Users/sebok/Documents/6. felev/szorak/hf/egg-game/egg-game/Library/Bee/PlayerScriptAssemblies/Unity.Mathematics.dll",
-        "C:/Users/sebok/Documents/6. felev/szorak/hf/egg-game/egg-game/Library/Bee/PlayerScriptAssemblies/Unity.TextMeshPro.dll",
-        "C:/Users/sebok/Documents/6. felev/szorak/hf/egg-game/egg-game/Library/Bee/PlayerScriptAssemblies/Unity.VisualScripting.State.dll",
-        "C:/Users/sebok/Documents/6. felev/szorak/hf/egg-game/egg-game/Library/PackageCache/com.unity.collections@1.2.4/Unity.Collections.LowLevel.ILSupport/Unity.Collections.LowLevel.ILSupport.dll",
-        "C:/Users/sebok/Documents/6. felev/szorak/hf/egg-game/egg-game/Library/PackageCache/com.unity.visualscripting@1.9.0/Runtime/VisualScripting.Flow/Dependencies/NCalc/Unity.VisualScripting.Antlr3.Runtime.dll",
-        "C:/Users/sebok/Documents/6. felev/szorak/hf/egg-game/egg-game/Library/PackageCache/com.unity.burst@1.8.8/Unity.Burst.Unsafe.dll",
+        "C:/Users/sebok/Documents/6. felev/szorak/hf/egg-game/Library/Bee/PlayerScriptAssemblies/Assembly-CSharp.dll",
+        "C:/Users/sebok/Documents/6. felev/szorak/hf/egg-game/Library/Bee/PlayerScriptAssemblies/Unity.2D.IK.Runtime.dll",
+        "C:/Users/sebok/Documents/6. felev/szorak/hf/egg-game/Library/Bee/PlayerScriptAssemblies/Unity.Burst.dll",
+        "C:/Users/sebok/Documents/6. felev/szorak/hf/egg-game/Library/Bee/PlayerScriptAssemblies/Unity.VisualScripting.Core.dll",
+        "C:/Users/sebok/Documents/6. felev/szorak/hf/egg-game/Library/Bee/PlayerScriptAssemblies/Unity.2D.Animation.Runtime.dll",
+        "C:/Users/sebok/Documents/6. felev/szorak/hf/egg-game/Library/Bee/PlayerScriptAssemblies/Unity.2D.Tilemap.Extras.dll",
+        "C:/Users/sebok/Documents/6. felev/szorak/hf/egg-game/Library/Bee/PlayerScriptAssemblies/Unity.VisualScripting.Flow.dll",
+        "C:/Users/sebok/Documents/6. felev/szorak/hf/egg-game/Library/Bee/PlayerScriptAssemblies/Unity.InternalAPIEngineBridge.001.dll",
+        "C:/Users/sebok/Documents/6. felev/szorak/hf/egg-game/Library/Bee/PlayerScriptAssemblies/Unity.2D.Common.Runtime.dll",
+        "C:/Users/sebok/Documents/6. felev/szorak/hf/egg-game/Library/Bee/PlayerScriptAssemblies/UnityEngine.UI.dll",
+        "C:/Users/sebok/Documents/6. felev/szorak/hf/egg-game/Library/Bee/PlayerScriptAssemblies/Unity.Timeline.dll",
+        "C:/Users/sebok/Documents/6. felev/szorak/hf/egg-game/Library/Bee/PlayerScriptAssemblies/Unity.Collections.dll",
+        "C:/Users/sebok/Documents/6. felev/szorak/hf/egg-game/Library/Bee/PlayerScriptAssemblies/Unity.2D.SpriteShape.Runtime.dll",
+        "C:/Users/sebok/Documents/6. felev/szorak/hf/egg-game/Library/Bee/PlayerScriptAssemblies/Unity.2D.PixelPerfect.dll",
+        "C:/Users/sebok/Documents/6. felev/szorak/hf/egg-game/Library/Bee/PlayerScriptAssemblies/Unity.Mathematics.dll",
+        "C:/Users/sebok/Documents/6. felev/szorak/hf/egg-game/Library/Bee/PlayerScriptAssemblies/Unity.TextMeshPro.dll",
+        "C:/Users/sebok/Documents/6. felev/szorak/hf/egg-game/Library/Bee/PlayerScriptAssemblies/Unity.VisualScripting.State.dll",
+        "C:/Users/sebok/Documents/6. felev/szorak/hf/egg-game/Library/PackageCache/com.unity.collections@1.2.4/Unity.Collections.LowLevel.ILSupport/Unity.Collections.LowLevel.ILSupport.dll",
+        "C:/Users/sebok/Documents/6. felev/szorak/hf/egg-game/Library/PackageCache/com.unity.visualscripting@1.9.0/Runtime/VisualScripting.Flow/Dependencies/NCalc/Unity.VisualScripting.Antlr3.Runtime.dll",
+        "C:/Users/sebok/Documents/6. felev/szorak/hf/egg-game/Library/PackageCache/com.unity.burst@1.8.8/Unity.Burst.Unsafe.dll",
         "C:/Program Files/Unity/Hub/Editor/2022.3.10f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32/Facades/System.Runtime.dll",
         "C:/Program Files/Unity/Hub/Editor/2022.3.10f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32/Facades/netstandard.dll",
         "C:/Program Files/Unity/Hub/Editor/2022.3.10f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32/Mono.Security.dll",
@@ -1628,7 +1628,7 @@
       "DisplayName": "Copying Assembly-CSharp.dll",
       "ActionType": "CopyFiles",
       "Inputs": [
-        "C:/Users/sebok/Documents/6. felev/szorak/hf/egg-game/egg-game/Library/Bee/PlayerScriptAssemblies/Assembly-CSharp.dll"
+        "C:/Users/sebok/Documents/6. felev/szorak/hf/egg-game/Library/Bee/PlayerScriptAssemblies/Assembly-CSharp.dll"
       ],
       "Outputs": [
         "Build/egg-game_Data/Managed/Assembly-CSharp.dll"
@@ -1640,7 +1640,7 @@
       "DisplayName": "Copying Unity.2D.IK.Runtime.dll",
       "ActionType": "CopyFiles",
       "Inputs": [
-        "C:/Users/sebok/Documents/6. felev/szorak/hf/egg-game/egg-game/Library/Bee/PlayerScriptAssemblies/Unity.2D.IK.Runtime.dll"
+        "C:/Users/sebok/Documents/6. felev/szorak/hf/egg-game/Library/Bee/PlayerScriptAssemblies/Unity.2D.IK.Runtime.dll"
       ],
       "Outputs": [
         "Build/egg-game_Data/Managed/Unity.2D.IK.Runtime.dll"
@@ -1652,7 +1652,7 @@
       "DisplayName": "Copying Unity.Burst.dll",
       "ActionType": "CopyFiles",
       "Inputs": [
-        "C:/Users/sebok/Documents/6. felev/szorak/hf/egg-game/egg-game/Library/Bee/PlayerScriptAssemblies/Unity.Burst.dll"
+        "C:/Users/sebok/Documents/6. felev/szorak/hf/egg-game/Library/Bee/PlayerScriptAssemblies/Unity.Burst.dll"
       ],
       "Outputs": [
         "Build/egg-game_Data/Managed/Unity.Burst.dll"
@@ -1664,7 +1664,7 @@
       "DisplayName": "Copying Unity.VisualScripting.Core.dll",
       "ActionType": "CopyFiles",
       "Inputs": [
-        "C:/Users/sebok/Documents/6. felev/szorak/hf/egg-game/egg-game/Library/Bee/PlayerScriptAssemblies/Unity.VisualScripting.Core.dll"
+        "C:/Users/sebok/Documents/6. felev/szorak/hf/egg-game/Library/Bee/PlayerScriptAssemblies/Unity.VisualScripting.Core.dll"
       ],
       "Outputs": [
         "Build/egg-game_Data/Managed/Unity.VisualScripting.Core.dll"
@@ -1676,7 +1676,7 @@
       "DisplayName": "Copying Unity.2D.Animation.Runtime.dll",
       "ActionType": "CopyFiles",
       "Inputs": [
-        "C:/Users/sebok/Documents/6. felev/szorak/hf/egg-game/egg-game/Library/Bee/PlayerScriptAssemblies/Unity.2D.Animation.Runtime.dll"
+        "C:/Users/sebok/Documents/6. felev/szorak/hf/egg-game/Library/Bee/PlayerScriptAssemblies/Unity.2D.Animation.Runtime.dll"
       ],
       "Outputs": [
         "Build/egg-game_Data/Managed/Unity.2D.Animation.Runtime.dll"
@@ -1688,7 +1688,7 @@
       "DisplayName": "Copying Unity.2D.Tilemap.Extras.dll",
       "ActionType": "CopyFiles",
       "Inputs": [
-        "C:/Users/sebok/Documents/6. felev/szorak/hf/egg-game/egg-game/Library/Bee/PlayerScriptAssemblies/Unity.2D.Tilemap.Extras.dll"
+        "C:/Users/sebok/Documents/6. felev/szorak/hf/egg-game/Library/Bee/PlayerScriptAssemblies/Unity.2D.Tilemap.Extras.dll"
       ],
       "Outputs": [
         "Build/egg-game_Data/Managed/Unity.2D.Tilemap.Extras.dll"
@@ -1700,7 +1700,7 @@
       "DisplayName": "Copying Unity.VisualScripting.Flow.dll",
       "ActionType": "CopyFiles",
       "Inputs": [
-        "C:/Users/sebok/Documents/6. felev/szorak/hf/egg-game/egg-game/Library/Bee/PlayerScriptAssemblies/Unity.VisualScripting.Flow.dll"
+        "C:/Users/sebok/Documents/6. felev/szorak/hf/egg-game/Library/Bee/PlayerScriptAssemblies/Unity.VisualScripting.Flow.dll"
       ],
       "Outputs": [
         "Build/egg-game_Data/Managed/Unity.VisualScripting.Flow.dll"
@@ -1712,7 +1712,7 @@
       "DisplayName": "Copying Unity.InternalAPIEngineBridge.001.dll",
       "ActionType": "CopyFiles",
       "Inputs": [
-        "C:/Users/sebok/Documents/6. felev/szorak/hf/egg-game/egg-game/Library/Bee/PlayerScriptAssemblies/Unity.InternalAPIEngineBridge.001.dll"
+        "C:/Users/sebok/Documents/6. felev/szorak/hf/egg-game/Library/Bee/PlayerScriptAssemblies/Unity.InternalAPIEngineBridge.001.dll"
       ],
       "Outputs": [
         "Build/egg-game_Data/Managed/Unity.InternalAPIEngineBridge.001.dll"
@@ -1724,7 +1724,7 @@
       "DisplayName": "Copying Unity.2D.Common.Runtime.dll",
       "ActionType": "CopyFiles",
       "Inputs": [
-        "C:/Users/sebok/Documents/6. felev/szorak/hf/egg-game/egg-game/Library/Bee/PlayerScriptAssemblies/Unity.2D.Common.Runtime.dll"
+        "C:/Users/sebok/Documents/6. felev/szorak/hf/egg-game/Library/Bee/PlayerScriptAssemblies/Unity.2D.Common.Runtime.dll"
       ],
       "Outputs": [
         "Build/egg-game_Data/Managed/Unity.2D.Common.Runtime.dll"
@@ -1736,7 +1736,7 @@
       "DisplayName": "Copying UnityEngine.UI.dll",
       "ActionType": "CopyFiles",
       "Inputs": [
-        "C:/Users/sebok/Documents/6. felev/szorak/hf/egg-game/egg-game/Library/Bee/PlayerScriptAssemblies/UnityEngine.UI.dll"
+        "C:/Users/sebok/Documents/6. felev/szorak/hf/egg-game/Library/Bee/PlayerScriptAssemblies/UnityEngine.UI.dll"
       ],
       "Outputs": [
         "Build/egg-game_Data/Managed/UnityEngine.UI.dll"
@@ -1748,7 +1748,7 @@
       "DisplayName": "Copying Unity.Timeline.dll",
       "ActionType": "CopyFiles",
       "Inputs": [
-        "C:/Users/sebok/Documents/6. felev/szorak/hf/egg-game/egg-game/Library/Bee/PlayerScriptAssemblies/Unity.Timeline.dll"
+        "C:/Users/sebok/Documents/6. felev/szorak/hf/egg-game/Library/Bee/PlayerScriptAssemblies/Unity.Timeline.dll"
       ],
       "Outputs": [
         "Build/egg-game_Data/Managed/Unity.Timeline.dll"
@@ -1760,7 +1760,7 @@
       "DisplayName": "Copying Unity.Collections.dll",
       "ActionType": "CopyFiles",
       "Inputs": [
-        "C:/Users/sebok/Documents/6. felev/szorak/hf/egg-game/egg-game/Library/Bee/PlayerScriptAssemblies/Unity.Collections.dll"
+        "C:/Users/sebok/Documents/6. felev/szorak/hf/egg-game/Library/Bee/PlayerScriptAssemblies/Unity.Collections.dll"
       ],
       "Outputs": [
         "Build/egg-game_Data/Managed/Unity.Collections.dll"
@@ -1772,7 +1772,7 @@
       "DisplayName": "Copying Unity.2D.SpriteShape.Runtime.dll",
       "ActionType": "CopyFiles",
       "Inputs": [
-        "C:/Users/sebok/Documents/6. felev/szorak/hf/egg-game/egg-game/Library/Bee/PlayerScriptAssemblies/Unity.2D.SpriteShape.Runtime.dll"
+        "C:/Users/sebok/Documents/6. felev/szorak/hf/egg-game/Library/Bee/PlayerScriptAssemblies/Unity.2D.SpriteShape.Runtime.dll"
       ],
       "Outputs": [
         "Build/egg-game_Data/Managed/Unity.2D.SpriteShape.Runtime.dll"
@@ -1784,7 +1784,7 @@
       "DisplayName": "Copying Unity.2D.PixelPerfect.dll",
       "ActionType": "CopyFiles",
       "Inputs": [
-        "C:/Users/sebok/Documents/6. felev/szorak/hf/egg-game/egg-game/Library/Bee/PlayerScriptAssemblies/Unity.2D.PixelPerfect.dll"
+        "C:/Users/sebok/Documents/6. felev/szorak/hf/egg-game/Library/Bee/PlayerScriptAssemblies/Unity.2D.PixelPerfect.dll"
       ],
       "Outputs": [
         "Build/egg-game_Data/Managed/Unity.2D.PixelPerfect.dll"
@@ -1796,7 +1796,7 @@
       "DisplayName": "Copying Unity.Mathematics.dll",
       "ActionType": "CopyFiles",
       "Inputs": [
-        "C:/Users/sebok/Documents/6. felev/szorak/hf/egg-game/egg-game/Library/Bee/PlayerScriptAssemblies/Unity.Mathematics.dll"
+        "C:/Users/sebok/Documents/6. felev/szorak/hf/egg-game/Library/Bee/PlayerScriptAssemblies/Unity.Mathematics.dll"
       ],
       "Outputs": [
         "Build/egg-game_Data/Managed/Unity.Mathematics.dll"
@@ -1808,7 +1808,7 @@
       "DisplayName": "Copying Unity.TextMeshPro.dll",
       "ActionType": "CopyFiles",
       "Inputs": [
-        "C:/Users/sebok/Documents/6. felev/szorak/hf/egg-game/egg-game/Library/Bee/PlayerScriptAssemblies/Unity.TextMeshPro.dll"
+        "C:/Users/sebok/Documents/6. felev/szorak/hf/egg-game/Library/Bee/PlayerScriptAssemblies/Unity.TextMeshPro.dll"
       ],
       "Outputs": [
         "Build/egg-game_Data/Managed/Unity.TextMeshPro.dll"
@@ -1820,7 +1820,7 @@
       "DisplayName": "Copying Unity.VisualScripting.State.dll",
       "ActionType": "CopyFiles",
       "Inputs": [
-        "C:/Users/sebok/Documents/6. felev/szorak/hf/egg-game/egg-game/Library/Bee/PlayerScriptAssemblies/Unity.VisualScripting.State.dll"
+        "C:/Users/sebok/Documents/6. felev/szorak/hf/egg-game/Library/Bee/PlayerScriptAssemblies/Unity.VisualScripting.State.dll"
       ],
       "Outputs": [
         "Build/egg-game_Data/Managed/Unity.VisualScripting.State.dll"
@@ -1832,7 +1832,7 @@
       "DisplayName": "Copying Unity.Collections.LowLevel.ILSupport.dll",
       "ActionType": "CopyFiles",
       "Inputs": [
-        "C:/Users/sebok/Documents/6. felev/szorak/hf/egg-game/egg-game/Library/PackageCache/com.unity.collections@1.2.4/Unity.Collections.LowLevel.ILSupport/Unity.Collections.LowLevel.ILSupport.dll"
+        "C:/Users/sebok/Documents/6. felev/szorak/hf/egg-game/Library/PackageCache/com.unity.collections@1.2.4/Unity.Collections.LowLevel.ILSupport/Unity.Collections.LowLevel.ILSupport.dll"
       ],
       "Outputs": [
         "Build/egg-game_Data/Managed/Unity.Collections.LowLevel.ILSupport.dll"
@@ -1844,7 +1844,7 @@
       "DisplayName": "Copying Unity.VisualScripting.Antlr3.Runtime.dll",
       "ActionType": "CopyFiles",
       "Inputs": [
-        "C:/Users/sebok/Documents/6. felev/szorak/hf/egg-game/egg-game/Library/PackageCache/com.unity.visualscripting@1.9.0/Runtime/VisualScripting.Flow/Dependencies/NCalc/Unity.VisualScripting.Antlr3.Runtime.dll"
+        "C:/Users/sebok/Documents/6. felev/szorak/hf/egg-game/Library/PackageCache/com.unity.visualscripting@1.9.0/Runtime/VisualScripting.Flow/Dependencies/NCalc/Unity.VisualScripting.Antlr3.Runtime.dll"
       ],
       "Outputs": [
         "Build/egg-game_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll"
@@ -1856,7 +1856,7 @@
       "DisplayName": "Copying Unity.Burst.Unsafe.dll",
       "ActionType": "CopyFiles",
       "Inputs": [
-        "C:/Users/sebok/Documents/6. felev/szorak/hf/egg-game/egg-game/Library/PackageCache/com.unity.burst@1.8.8/Unity.Burst.Unsafe.dll"
+        "C:/Users/sebok/Documents/6. felev/szorak/hf/egg-game/Library/PackageCache/com.unity.burst@1.8.8/Unity.Burst.Unsafe.dll"
       ],
       "Outputs": [
         "Build/egg-game_Data/Managed/Unity.Burst.Unsafe.dll"
@@ -2131,8 +2131,8 @@
       "Annotation": "GenerateNativePluginsForAssemblies Library/Bee/artifacts/WinPlayerBuildProgram/AsyncPluginsFromLinker",
       "DisplayName": "Running Burst Compiler",
       "ActionType": "RunRPCCommand",
-      "PayloadOffset": 18742,
-      "PayloadLength": 16445,
+      "PayloadOffset": 18562,
+      "PayloadLength": 16265,
       "PayloadDebugContentSnippet": "{\"PlayerBuildProgramLibrary.Da",
       "Action": "GenerateNativePluginsForAssemblies",
       "Inputs": [
@@ -2204,26 +2204,26 @@
         "C:/Program Files/Unity/Hub/Editor/2022.3.10f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/mono/Managed/UnityEngine.WindModule.dll",
         "C:/Program Files/Unity/Hub/Editor/2022.3.10f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/mono/Managed/UnityEngine.XRModule.dll",
         "C:/Program Files/Unity/Hub/Editor/2022.3.10f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/mono/Managed/UnityEngine.dll",
-        "C:/Users/sebok/Documents/6. felev/szorak/hf/egg-game/egg-game/Library/Bee/PlayerScriptAssemblies/Assembly-CSharp.dll",
-        "C:/Users/sebok/Documents/6. felev/szorak/hf/egg-game/egg-game/Library/Bee/PlayerScriptAssemblies/Unity.2D.IK.Runtime.dll",
-        "C:/Users/sebok/Documents/6. felev/szorak/hf/egg-game/egg-game/Library/Bee/PlayerScriptAssemblies/Unity.Burst.dll",
-        "C:/Users/sebok/Documents/6. felev/szorak/hf/egg-game/egg-game/Library/Bee/PlayerScriptAssemblies/Unity.VisualScripting.Core.dll",
-        "C:/Users/sebok/Documents/6. felev/szorak/hf/egg-game/egg-game/Library/Bee/PlayerScriptAssemblies/Unity.2D.Animation.Runtime.dll",
-        "C:/Users/sebok/Documents/6. felev/szorak/hf/egg-game/egg-game/Library/Bee/PlayerScriptAssemblies/Unity.2D.Tilemap.Extras.dll",
-        "C:/Users/sebok/Documents/6. felev/szorak/hf/egg-game/egg-game/Library/Bee/PlayerScriptAssemblies/Unity.VisualScripting.Flow.dll",
-        "C:/Users/sebok/Documents/6. felev/szorak/hf/egg-game/egg-game/Library/Bee/PlayerScriptAssemblies/Unity.InternalAPIEngineBridge.001.dll",
-        "C:/Users/sebok/Documents/6. felev/szorak/hf/egg-game/egg-game/Library/Bee/PlayerScriptAssemblies/Unity.2D.Common.Runtime.dll",
-        "C:/Users/sebok/Documents/6. felev/szorak/hf/egg-game/egg-game/Library/Bee/PlayerScriptAssemblies/UnityEngine.UI.dll",
-        "C:/Users/sebok/Documents/6. felev/szorak/hf/egg-game/egg-game/Library/Bee/PlayerScriptAssemblies/Unity.Timeline.dll",
-        "C:/Users/sebok/Documents/6. felev/szorak/hf/egg-game/egg-game/Library/Bee/PlayerScriptAssemblies/Unity.Collections.dll",
-        "C:/Users/sebok/Documents/6. felev/szorak/hf/egg-game/egg-game/Library/Bee/PlayerScriptAssemblies/Unity.2D.SpriteShape.Runtime.dll",
-        "C:/Users/sebok/Documents/6. felev/szorak/hf/egg-game/egg-game/Library/Bee/PlayerScriptAssemblies/Unity.2D.PixelPerfect.dll",
-        "C:/Users/sebok/Documents/6. felev/szorak/hf/egg-game/egg-game/Library/Bee/PlayerScriptAssemblies/Unity.Mathematics.dll",
-        "C:/Users/sebok/Documents/6. felev/szorak/hf/egg-game/egg-game/Library/Bee/PlayerScriptAssemblies/Unity.TextMeshPro.dll",
-        "C:/Users/sebok/Documents/6. felev/szorak/hf/egg-game/egg-game/Library/Bee/PlayerScriptAssemblies/Unity.VisualScripting.State.dll",
-        "C:/Users/sebok/Documents/6. felev/szorak/hf/egg-game/egg-game/Library/PackageCache/com.unity.collections@1.2.4/Unity.Collections.LowLevel.ILSupport/Unity.Collections.LowLevel.ILSupport.dll",
-        "C:/Users/sebok/Documents/6. felev/szorak/hf/egg-game/egg-game/Library/PackageCache/com.unity.visualscripting@1.9.0/Runtime/VisualScripting.Flow/Dependencies/NCalc/Unity.VisualScripting.Antlr3.Runtime.dll",
-        "C:/Users/sebok/Documents/6. felev/szorak/hf/egg-game/egg-game/Library/PackageCache/com.unity.burst@1.8.8/Unity.Burst.Unsafe.dll",
+        "C:/Users/sebok/Documents/6. felev/szorak/hf/egg-game/Library/Bee/PlayerScriptAssemblies/Assembly-CSharp.dll",
+        "C:/Users/sebok/Documents/6. felev/szorak/hf/egg-game/Library/Bee/PlayerScriptAssemblies/Unity.2D.IK.Runtime.dll",
+        "C:/Users/sebok/Documents/6. felev/szorak/hf/egg-game/Library/Bee/PlayerScriptAssemblies/Unity.Burst.dll",
+        "C:/Users/sebok/Documents/6. felev/szorak/hf/egg-game/Library/Bee/PlayerScriptAssemblies/Unity.VisualScripting.Core.dll",
+        "C:/Users/sebok/Documents/6. felev/szorak/hf/egg-game/Library/Bee/PlayerScriptAssemblies/Unity.2D.Animation.Runtime.dll",
+        "C:/Users/sebok/Documents/6. felev/szorak/hf/egg-game/Library/Bee/PlayerScriptAssemblies/Unity.2D.Tilemap.Extras.dll",
+        "C:/Users/sebok/Documents/6. felev/szorak/hf/egg-game/Library/Bee/PlayerScriptAssemblies/Unity.VisualScripting.Flow.dll",
+        "C:/Users/sebok/Documents/6. felev/szorak/hf/egg-game/Library/Bee/PlayerScriptAssemblies/Unity.InternalAPIEngineBridge.001.dll",
+        "C:/Users/sebok/Documents/6. felev/szorak/hf/egg-game/Library/Bee/PlayerScriptAssemblies/Unity.2D.Common.Runtime.dll",
+        "C:/Users/sebok/Documents/6. felev/szorak/hf/egg-game/Library/Bee/PlayerScriptAssemblies/UnityEngine.UI.dll",
+        "C:/Users/sebok/Documents/6. felev/szorak/hf/egg-game/Library/Bee/PlayerScriptAssemblies/Unity.Timeline.dll",
+        "C:/Users/sebok/Documents/6. felev/szorak/hf/egg-game/Library/Bee/PlayerScriptAssemblies/Unity.Collections.dll",
+        "C:/Users/sebok/Documents/6. felev/szorak/hf/egg-game/Library/Bee/PlayerScriptAssemblies/Unity.2D.SpriteShape.Runtime.dll",
+        "C:/Users/sebok/Documents/6. felev/szorak/hf/egg-game/Library/Bee/PlayerScriptAssemblies/Unity.2D.PixelPerfect.dll",
+        "C:/Users/sebok/Documents/6. felev/szorak/hf/egg-game/Library/Bee/PlayerScriptAssemblies/Unity.Mathematics.dll",
+        "C:/Users/sebok/Documents/6. felev/szorak/hf/egg-game/Library/Bee/PlayerScriptAssemblies/Unity.TextMeshPro.dll",
+        "C:/Users/sebok/Documents/6. felev/szorak/hf/egg-game/Library/Bee/PlayerScriptAssemblies/Unity.VisualScripting.State.dll",
+        "C:/Users/sebok/Documents/6. felev/szorak/hf/egg-game/Library/PackageCache/com.unity.collections@1.2.4/Unity.Collections.LowLevel.ILSupport/Unity.Collections.LowLevel.ILSupport.dll",
+        "C:/Users/sebok/Documents/6. felev/szorak/hf/egg-game/Library/PackageCache/com.unity.visualscripting@1.9.0/Runtime/VisualScripting.Flow/Dependencies/NCalc/Unity.VisualScripting.Antlr3.Runtime.dll",
+        "C:/Users/sebok/Documents/6. felev/szorak/hf/egg-game/Library/PackageCache/com.unity.burst@1.8.8/Unity.Burst.Unsafe.dll",
         "C:/Program Files/Unity/Hub/Editor/2022.3.10f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32/Facades/System.Runtime.dll",
         "C:/Program Files/Unity/Hub/Editor/2022.3.10f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32/Facades/netstandard.dll",
         "C:/Program Files/Unity/Hub/Editor/2022.3.10f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32/Mono.Security.dll",
@@ -2247,7 +2247,7 @@
         "C:/Program Files/Unity/Hub/Editor/2022.3.10f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32/System.dll",
         "C:/Program Files/Unity/Hub/Editor/2022.3.10f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32/mscorlib.dll",
         "ProjectSettings/BurstAotSettings_StandaloneWindows.json",
-        "C:/Users/sebok/Documents/6. felev/szorak/hf/egg-game/egg-game/Library/PackageCache/com.unity.burst@1.8.8/.Runtime/bcl.exe"
+        "C:/Users/sebok/Documents/6. felev/szorak/hf/egg-game/Library/PackageCache/com.unity.burst@1.8.8/.Runtime/bcl.exe"
       ],
       "Outputs": [],
       "TargetDirectories": [
@@ -2300,7 +2300,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/WinPlayerBuildProgram/Data/app.info",
       "DisplayName": "Writing app.info",
       "ActionType": "WriteFile",
-      "PayloadOffset": 35276,
+      "PayloadOffset": 34916,
       "PayloadLength": 20,
       "PayloadDebugContentSnippet": "Sebők Lili\negg-game",
       "Inputs": [],
@@ -3003,6 +3003,6 @@
   "SharedResources": [],
   "Scanners": [],
   "Identifier": "Library/Bee/Playerfdff5365.dag.json",
-  "PayloadsFile": "C:/Users/sebok/Documents/6. felev/szorak/hf/egg-game/egg-game/Library/Bee/Playerfdff5365.dag.payloads",
+  "PayloadsFile": "C:/Users/sebok/Documents/6. felev/szorak/hf/egg-game/Library/Bee/Playerfdff5365.dag.payloads",
   "RelativePathToRoot": "../.."
 }
