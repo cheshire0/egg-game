@@ -63,7 +63,9 @@
     <Compile Include="Assets\imported\#NVJOB Alpha Flashing UI\Example Scenes\Standard Assets\Effects\ImageEffects\Scripts\VignetteAndChromaticAberration.cs" />
     <Compile Include="Assets\imported\#NVJOB Alpha Flashing UI\Example Scenes\Standard Assets\Effects\ImageEffects\Scripts\BloomOptimized.cs" />
     <Compile Include="Assets\imported\#NVJOB Alpha Flashing UI\Example Scenes\Standard Assets\Effects\ImageEffects\Scripts\SepiaTone.cs" />
+    <Compile Include="Assets\scripts\nest_behaviour.cs" />
     <Compile Include="Assets\imported\#NVJOB Alpha Flashing UI\Example Scenes\Standard Assets\Effects\ImageEffects\Scripts\Bloom.cs" />
+    <Compile Include="Assets\scripts\collectible_behaviour.cs" />
     <Compile Include="Assets\imported\#NVJOB Alpha Flashing UI\Example Scenes\Standard Assets\Effects\ImageEffects\Scripts\TiltShift.cs" />
     <Compile Include="Assets\imported\#NVJOB Alpha Flashing UI\Example Scenes\Standard Assets\Effects\ImageEffects\Scripts\Antialiasing.cs" />
     <Compile Include="Assets\imported\#NVJOB Alpha Flashing UI\Example Scenes\Standard Assets\Effects\ImageEffects\Scripts\BloomAndFlares.cs" />
@@ -79,11 +81,14 @@
     <Compile Include="Assets\imported\#NVJOB Alpha Flashing UI\Example Scenes\Standard Assets\Effects\ImageEffects\Scripts\PostEffectsHelper.cs" />
     <Compile Include="Assets\imported\#NVJOB Alpha Flashing UI\Example Scenes\Standard Assets\Effects\ImageEffects\Scripts\Vortex.cs" />
     <Compile Include="Assets\imported\#NVJOB Alpha Flashing UI\Example Scenes\Standard Assets\Effects\ImageEffects\Scripts\Fisheye.cs" />
+    <Compile Include="Assets\scripts\window_script.cs" />
     <Compile Include="Assets\imported\#NVJOB Alpha Flashing UI\Example Scenes\Standard Assets\Effects\ImageEffects\Scripts\ColorCorrectionRamp.cs" />
     <Compile Include="Assets\imported\#NVJOB Alpha Flashing UI\Example Scenes\Standard Assets\Effects\ImageEffects\Scripts\ImageEffects.cs" />
     <Compile Include="Assets\imported\#NVJOB Alpha Flashing UI\Example Scenes\Standard Assets\Effects\ImageEffects\Scripts\NoiseAndGrain.cs" />
+    <Compile Include="Assets\scripts\display_score.cs" />
     <Compile Include="Assets\imported\#NVJOB Alpha Flashing UI\Example Scenes\Standard Assets\Effects\ImageEffects\Scripts\ScreenSpaceAmbientObscurance.cs" />
     <Compile Include="Assets\scripts\timer.cs" />
+    <Compile Include="Assets\scripts\collectible_counter.cs" />
     <Compile Include="Assets\imported\#NVJOB Alpha Flashing UI\Example Scenes\Standard Assets\Effects\ImageEffects\Scripts\SunShafts.cs" />
     <Compile Include="Assets\scripts\scene_change.cs" />
     <Compile Include="Assets\imported\#NVJOB Alpha Flashing UI\Example Scenes\Standard Assets\Effects\ImageEffects\Scripts\Grayscale.cs" />
@@ -94,6 +99,7 @@
     <Compile Include="Assets\scripts\egg_behaviour.cs" />
     <Compile Include="Assets\imported\#NVJOB Alpha Flashing UI\Example Scenes\Standard Assets\Effects\ImageEffects\Scripts\ColorCorrectionCurves.cs" />
     <Compile Include="Assets\imported\#NVJOB Alpha Flashing UI\Example Scenes\Standard Assets\Effects\ImageEffects\Scripts\ContrastStretch.cs" />
+    <Compile Include="Assets\scripts\chicken_behaviour.cs" />
     <Compile Include="Assets\scripts\camera_movement.cs" />
     <Compile Include="Assets\imported\#NVJOB Alpha Flashing UI\Example Scenes\Standard Assets\Effects\ImageEffects\Scripts\ColorCorrectionLookup.cs" />
     <Compile Include="Assets\imported\#NVJOB Alpha Flashing UI\Example Scenes\Standard Assets\Effects\ImageEffects\Scripts\CreaseShading.cs" />

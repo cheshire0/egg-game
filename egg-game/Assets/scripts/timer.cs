@@ -13,6 +13,7 @@ public class TimeCounter : MonoBehaviour
 
     private float seconds, minutes;
     private float time;
+    public bool stopped = false;
 
     void Start()
     {
@@ -22,7 +23,26 @@ public class TimeCounter : MonoBehaviour
 
     private void Update()
     {
-        CountTime();
+        if (!stopped)
+        {
+            CountTime();
+        }
+        else
+        {
+            if (PlayerPrefs.HasKey("hiTime"))
+            {
+                if (time < PlayerPrefs.GetFloat("hiTime"))
+                {
+                    PlayerPrefs.SetFloat("hiTime", time);
+                    PlayerPrefs.Save();
+                }
+            }
+            else
+            {
+                PlayerPrefs.SetFloat("hiTime", time);
+                PlayerPrefs.Save();
+            }
+        }
     }
 
 

@@ -81,7 +81,6 @@ public class scene_change : MonoBehaviour, IPointerClickHandler, IPointerDownHan
     public void OnPointerClick(PointerEventData pointerEventData)
     {
         //Output to console the clicked GameObject's name and the following message. You can replace this with your own actions for when clicking the GameObject.
-        Debug.Log(name + " Game Object Clicked!", this);
         SceneManager.LoadScene(sceneName: sceneName);
 
         // invoke your event
